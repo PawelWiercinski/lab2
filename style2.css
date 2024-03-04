@@ -1,0 +1,56 @@
+body{
+  background-color: antiquewhite;
+  text-align: center;
+}
+#koty{
+  margin-bottom: 75px;
+}
+#koty img{
+  width: 550px;
+}
+nav {
+  background-color: #f48b8b;
+  padding: 0.5em;
+  text-align: center;
+  height: 15px;
+
+}
+nav a {
+  color: #040e01;
+  text-decoration: none;
+  padding: 9em;
+  font-size: 17px;
+  font-weight: bold;
+}
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  font-size: 45px;
+}
+h2{
+  font-family: Garamond, serif;
+  font-size: 38px;
+  margin-bottom: 40px;
+}
+#kot1, #kot2, #kot3{
+  display: flex;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 60px;
+}
+#kot1 img, #kot2 img, #kot3 img {
+  max-width: 450px;
+  margin-right: 100px;
+}
+#kot1-text, #kot2-text, #kot3-text {
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+#europejski, #brytyjski, #syjamski{
+  font-size: 20px;
+  text-align: center;
+  justify-content: center;
+}
