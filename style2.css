@@ -39,7 +39,8 @@ h2{
   padding: 60px;
 }
 #kot1 img, #kot2 img, #kot3 img {
-  max-width: 450px;
+  max-width: 460px;
+  max-height: 330px;
   margin-right: 100px;
 }
 #kot1-text, #kot2-text, #kot3-text {
